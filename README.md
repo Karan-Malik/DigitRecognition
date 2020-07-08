@@ -5,11 +5,11 @@ Using Deep Learning to recognize Handwritten Digits (MNIST)
 
 Main Screen
 
-![image](UI/main.jpg)
+![image](UI/main.JPG)
 
 Prediction Screen
 
-![image](UI/predict.jpg)
+![image](UI/predict.JPG)
 
 ## About This Project
 This repository contains a self-made Convolutional Neural Network, implemented using Keras, an open source neural network library in Python. It uses this Deep Learning model
