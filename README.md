@@ -1,7 +1,7 @@
 # DigitRecognition
 Using Deep Learning to recognize Handwritten Digits (MNIST)
 
-## UI
+## User Interface
 
 Main Screen
 
