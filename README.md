@@ -28,7 +28,7 @@ in Keras and can be used as shown in 'digit recognition.py'.
 1. Clone this repository onto your system. On Command Prompt, run the following command:
 
 ```
-git clone https://github.com/Karan-Malik/DigitRecognition
+git clone https://github.com/Karan-Malik/DigitRecognition.git
 ```
 2. Change your directory to MovieHype:
 ```
